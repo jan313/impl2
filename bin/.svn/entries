@@ -1,0 +1,77 @@
+10
+
+dir
+105
+https://svn.rbg.informatik.tu-darmstadt.de/svn/ga72ydeq-implrmi/bin
+https://svn.rbg.informatik.tu-darmstadt.de/svn/ga72ydeq-implrmi
+
+
+
+2013-03-29T20:55:20.427801Z
+105
+ga72ydeq
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e5376718-9647-4bfe-b39a-d5f0e8ea0419
+
+cache
+dir
+
+
+
+delete
+
+client
+dir
+
+
+
+delete
+
+jcop
+dir
+
+
+
+delete
+
+layers
+dir
+
+
+
+delete
+
+main
+dir
+
+
+
+delete
+
+remoteInterface
+dir
+
+
+
+delete
+
+server
+dir
+
+
+
+delete
+

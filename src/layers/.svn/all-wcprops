@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/ga72ydeq-implrmi/!svn/ver/105/src/layers
+END
+OutOfMemory.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/ga72ydeq-implrmi/!svn/ver/104/src/layers/OutOfMemory.jcop
+END
+ReadDisk.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ga72ydeq-implrmi/!svn/ver/98/src/layers/ReadDisk.jcop
+END
+Memory.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ga72ydeq-implrmi/!svn/ver/70/src/layers/Memory.jcop
+END
+ReadMem.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/ga72ydeq-implrmi/!svn/ver/97/src/layers/ReadMem.jcop
+END

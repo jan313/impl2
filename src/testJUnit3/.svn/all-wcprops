@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ga72ydeq-implrmi/!svn/ver/105/src/testJUnit3
+END
+ExpirationPolicyTest.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/ga72ydeq-implrmi/!svn/ver/105/src/testJUnit3/ExpirationPolicyTest.jcop
+END
+AllTests.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ga72ydeq-implrmi/!svn/ver/105/src/testJUnit3/AllTests.jcop
+END
+LFUPolicyTest.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/ga72ydeq-implrmi/!svn/ver/103/src/testJUnit3/LFUPolicyTest.jcop
+END
+SetupTest.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/ga72ydeq-implrmi/!svn/ver/86/src/testJUnit3/SetupTest.jcop
+END
+MultipleClientsTest.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/ga72ydeq-implrmi/!svn/ver/75/src/testJUnit3/MultipleClientsTest.jcop
+END

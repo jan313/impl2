@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/ga72ydeq-implrmi/!svn/ver/105/src/cache
+END
+CacheRead.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ga72ydeq-implrmi/!svn/ver/89/src/cache/CacheRead.jcop
+END
+DiskRead.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ga72ydeq-implrmi/!svn/ver/102/src/cache/DiskRead.jcop
+END
+SimpleCache.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/ga72ydeq-implrmi/!svn/ver/105/src/cache/SimpleCache.jcop
+END
+StatOut.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ga72ydeq-implrmi/!svn/ver/73/src/cache/StatOut.jcop
+END
+StatIn.jcop
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ga72ydeq-implrmi/!svn/ver/77/src/cache/StatIn.jcop
+END

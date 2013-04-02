@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/ga72ydeq-implrmi/!svn/ver/58/lib
+END
+hamcrest.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ga72ydeq-implrmi/!svn/ver/42/lib/hamcrest.jar
+END
+aspectjrt.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ga72ydeq-implrmi/!svn/ver/58/lib/aspectjrt.jar
+END
+junit3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ga72ydeq-implrmi/!svn/ver/38/lib/junit3.jar
+END
+junit4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/ga72ydeq-implrmi/!svn/ver/38/lib/junit4.jar
+END
